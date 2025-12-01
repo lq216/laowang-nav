@@ -1,6 +1,6 @@
 <template>
   <article class="about">
-    <h1>About Dashy</h1>
+    <h1>About LaoWang Nav</h1>
     <section>
       <h2>Project Overview</h2>
       <p>
