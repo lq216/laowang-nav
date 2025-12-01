@@ -89,41 +89,11 @@ export default {
 
   .title-glass-wrapper {
     position: relative;
-    padding: 1.2rem 3rem;
-    background: linear-gradient(135deg, 
-      rgba(255, 255, 255, 0.12) 0%, 
-      rgba(255, 255, 255, 0.06) 100%);
-    backdrop-filter: blur(20px);
-    -webkit-backdrop-filter: blur(20px);
-    border-radius: 16px;
-    border: 2px solid rgba(255, 255, 255, 0.2);
-    box-shadow: 
-      0 8px 32px 0 rgba(0, 0, 0, 0.3),
-      inset 0 1px 0 0 rgba(255, 255, 255, 0.3);
+    padding: 0.5rem 1rem;
     transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-    
-    &::before {
-      content: '';
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      height: 1px;
-      background: linear-gradient(90deg, 
-        transparent 0%, 
-        rgba(255, 255, 255, 0.5) 50%, 
-        transparent 100%);
-    }
 
     &:hover {
-      background: linear-gradient(135deg, 
-        rgba(255, 255, 255, 0.18) 0%, 
-        rgba(255, 255, 255, 0.1) 100%);
-      border-color: rgba(255, 255, 255, 0.3);
-      box-shadow: 
-        0 12px 48px 0 rgba(0, 0, 0, 0.4),
-        inset 0 1px 0 0 rgba(255, 255, 255, 0.4);
-      transform: translateY(-3px);
+      transform: translateY(-2px);
     }
   }
 

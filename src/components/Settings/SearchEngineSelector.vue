@@ -121,15 +121,20 @@ export default {
     display: flex;
     align-items: center;
     gap: 1rem;
-    background: var(--search-field-background);
-    border: 2px solid var(--outline-color);
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     border-radius: var(--curve-factor);
     padding: 1.2rem 1.5rem;
-    transition: border-color 0.2s;
+    transition: all 0.3s ease;
     min-height: 56px;
 
     &:focus-within {
+      background: rgba(255, 255, 255, 0.15);
       border-color: var(--primary);
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
     }
 
     .search-input {
