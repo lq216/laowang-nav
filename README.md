@@ -311,9 +311,7 @@ sections:
 
 ## 🙏 致谢
 
-本项目基于 [Dashy](https://github.com/Lissy93/dashy) 开发，感谢 [Alicia Sykes](https://github.com/Lissy93) 创建了如此优秀的开源项目。
-
-Dashy 是一个功能强大的自托管首页，为全球数千名用户提供服务。如果您喜欢这类项目，强烈推荐访问 [Dashy](https://github.com/Lissy93/dashy) 了解更多功能。
+感谢 [Alicia Sykes][Dashy] 创建了如此优秀的开源项目。
 
 ---
 

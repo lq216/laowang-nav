@@ -4,25 +4,28 @@
     <section>
       <h2>Project Overview</h2>
       <p>
-        Dashy is a self-hosted startpage for keeping your running applications and
-        services organised. The aim of Dashy is to provide an easy-to-deploy,
-        highly customizable and functianl dashboard, in order to improvde productivity
-        and enable easy organisation of running services or web links.
+        LaoWang Nav is a self-hosted navigation page for organizing your running applications and
+        services. This project provides an easy-to-deploy,
+       highly customizable and functional dashboard to improve productivity
+        and enable easy organization of running services or web links.
+      </p>
+      <p>
+        <em>This project is based on <a href="https://github.com/Lissy93/dashy">Dashy</a> by Alicia Sykes.</em>
       </p>
     </section>
 
     <section>
       <h2>Source</h2>
       <p>
-        Dashy's source is available through <a href="https://github.com/lissy93/dashy">GitHub</a>,
-        and the Docker image is on <a href="https://hub.docker.com/r/lissy93/dashy">DockerHub</a>.
+        LaoWang Nav's source is available through <a href="https://github.com/tony-wang1990/laowang-nav">GitHub</a>,
+        and the Docker image is on <a href="https://github.com/tony-wang1990/laowang-nav/pkgs/container/laowang-nav">GitHub Container Registry</a>.
       </p>
     </section>
 
     <section>
       <h2>Reporting a Bug</h2>
       <p>
-        If you've come across an bug in Dashy, please <a href="https://git.io/JnqPR">open an issue</a>,
+        If you've come across a bug in LaoWang Nav, please <a href="https://github.com/tony-wang1990/laowang-nav/issues">open an issue</a>,
         so that it can be fixed.
       </p>
     </section>
@@ -30,9 +33,9 @@
     <section>
       <h2>Getting Support</h2>
       <p>
-        If you need any help deploying, using, or developing Dashy, feel free to
-        <a href="https://git.io/JnqiA">open a support ticket</a> or start a
-        <a href="https://github.com/Lissy93/dashy/discussions">discussion</a> on GitHub.
+        If you need any help deploying, using, or developing LaoWang Nav, feel free to
+        <a href="https://github.com/tony-wang1990/laowang-nav/issues">open a support ticket</a> or start a
+        <a href="https://github.com/tony-wang1990/laowang-nav/discussions">discussion</a> on GitHub.
       </p>
     </section>
 

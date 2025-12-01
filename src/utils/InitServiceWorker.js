@@ -59,7 +59,7 @@ const registerServiceWorker = async () => {
       ready() {
         setSwStatus({ ready: true });
         printSwStatus(
-          'Dashy is being served from cache by a service worker.\n'
+          'LaoWang Nav is being served from cache by a service worker.\n'
           + 'For more details, visit https://goo.gl/AFskqB',
         );
       },
@@ -81,7 +81,7 @@ const registerServiceWorker = async () => {
       },
       offline() {
         setSwStatus({ offline: true });
-        printSwStatus('No internet connection found. Dashy is running in offline mode.');
+        printSwStatus('No internet connection found. LaoWang Nav is running in offline mode.');
       },
       error(error) {
         setSwStatus({ error: true });
