@@ -147,7 +147,7 @@ function parseSectionsBetter(content) {
 }
 
 const confPath = 'user-data/conf.yml';
-const keji8Path = 'keji8_conf.yml';
+const keji8Path = '../../data/keji8_conf.yml';
 
 const confContent = fs.readFileSync(confPath, 'utf8');
 const keji8Content = fs.readFileSync(keji8Path, 'utf8');

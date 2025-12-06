@@ -43,8 +43,8 @@ async function fetchAll() {
     const result = await fetchUrl(endpoint);
     results.push(result);
   }
-  fs.writeFileSync('nav_data.json', JSON.stringify(results, null, 2));
-  console.log('Done! Saved to nav_data.json');
+  fs.writeFileSync('../../data/nav_data.json', JSON.stringify(results, null, 2));
+  console.log('Done! Saved to data/nav_data.json');
 }
 
 fetchAll();

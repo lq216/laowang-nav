@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const data = JSON.parse(fs.readFileSync('nav_data.json', 'utf8'));
+const data = JSON.parse(fs.readFileSync('../../data/nav_data.json', 'utf8'));
 
 let yaml = 'sections:\n';
 
@@ -20,5 +20,5 @@ data.forEach(category => {
   });
 });
 
-fs.writeFileSync('sections.yml', yaml);
-console.log('Done! Saved to sections.yml');
+fs.writeFileSync('../../data/sections.yml', yaml);
+console.log('Done! Saved to data/sections.yml');

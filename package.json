@@ -20,7 +20,7 @@
     "validate-config": "node services/config-validator",
     "health-check": "node services/healthcheck",
     "dependency-audit": "npx improved-yarn-audit --ignore-dev-deps",
-    "sync": "node sync_nav.js"
+    "sync": "node scripts/sync/sync_nav.js"
   },
   "dependencies": {
     "@babel/core": "^7.0.0",

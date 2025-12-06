@@ -70,7 +70,7 @@ async function sync() {
     // 1. Fetch Menus from remote
     console.log(`\n📡 获取远程菜单: ${MENUS_URL}`);
     const menus = await fetchData(MENUS_URL);
-    fs.writeFileSync('menus.json', JSON.stringify(menus, null, 2));
+    fs.writeFileSync('../../data/menus.json', JSON.stringify(menus, null, 2));
 
     // 2. Fetch all remote sections
     const remoteSections = [];

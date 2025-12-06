@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 const confPath = 'user-data/conf.yml';
-const sectionsPath = 'sections.yml';
+const sectionsPath = '../../data/sections.yml';
 
 const confContent = fs.readFileSync(confPath, 'utf8');
 const sectionsContent = fs.readFileSync(sectionsPath, 'utf8');
