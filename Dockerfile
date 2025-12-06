@@ -4,6 +4,9 @@ FROM node:18.19.1-alpine AS BUILD_IMAGE
 ARG TARGETPLATFORM
 ENV TARGETPLATFORM=${TARGETPLATFORM:-linux/amd64}
 
+# Config Alpine Mirror
+RUN sed -i 's/dl-cdn.alpinelinux.org/mirrors.aliyun.com/g' /etc/apk/repositories
+
 # Install additional tools needed if on arm64 / armv7
 RUN \
   case "${TARGETPLATFORM}" in \
@@ -36,7 +39,8 @@ ENV PORT=8080 \
 WORKDIR ${DIRECTORY}
 
 # Update tzdata for setting timezone
-RUN apk add --no-cache tzdata
+RUN sed -i 's/dl-cdn.alpinelinux.org/mirrors.aliyun.com/g' /etc/apk/repositories \
+    && apk add --no-cache tzdata
 
 # Copy built application from build phase
 COPY --from=BUILD_IMAGE /app ./
