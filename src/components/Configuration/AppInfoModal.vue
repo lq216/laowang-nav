@@ -20,7 +20,7 @@
       <h3>{{ $t('app-info.more-info') }}</h3>
       {{ $t('app-info.source') }}: <a href="https://github.com/tony-wang1990/laowang-nav">github.com/tony-wang1990/laowang-nav</a><br>
       <br>
-      <i>本项目基于 <a href="https://github.com/Lissy93/dashy">Dashy</a> 开发，仅供学习交流。</i>
+      <i>本项目基于 <a href="https://github.com/Lissy93/dashy">LaoWang</a> 开发，仅供学习交流。</i>
       <!-- Privacy & Security -->
       <h3>{{ $t('app-info.privacy-and-security') }}</h3>
       {{ $t('app-info.privacy-and-security-l1') }} <a href="#">{{ $t('app-info.privacy-and-security-privacy-policy') }}</a>.<br>

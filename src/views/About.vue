@@ -10,7 +10,7 @@
         and enable easy organization of running services or web links.
       </p>
       <p>
-        <em>This project is based on <a href="https://github.com/Lissy93/dashy">Dashy</a> by Alicia Sykes.</em>
+        <em>This project is based on <a href="https://github.com/Lissy93/dashy">LaoWang</a> by Alicia Sykes.</em>
       </p>
     </section>
 
@@ -44,7 +44,7 @@
       <a href="https://aliciasykes.com">
         <img class="aht-pic" src="https://i.ibb.co/FnxqTfx/aht-bot-round.png" alt="Alicia Sykes">
       </a>
-      Dashy is developed an maintained by <a href="https://aliciasykes.com">Alicia Sykes</a>
+      LaoWang is developed an maintained by <a href="https://aliciasykes.com">Alicia Sykes</a>
       (<a href="https://github.com/lissy93">@Lissy93</a>), with support from the community.
       <ul>
         <li><b>PGP Key</b> - <a href="https://keybase.io/aliciasykes/pgp_keys.asc?fingerprint=0688f8d34587d954e9e51fb8fedb68f55c0283a7"><code>0688 F8D3 4587 D954 E9E5  1FB8 FEDB 68F5 5C02 83A7</code></a></li>

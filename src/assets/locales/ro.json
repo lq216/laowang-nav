@@ -14,7 +14,7 @@
     "loading": "Încărcare"
   },
   "login": {
-    "title": "Dashy",
+    "title": "LaoWang",
     "guest-label": "Acces Vizitator",
     "username-label": "Nume utilizator",
     "password-label": "Parolă",
@@ -49,11 +49,11 @@
     "error-log": "Jurnal Erori",
     "no-errors": "Nicio eroare recentă detectată",
     "help-support": "Ajutor & Suport",
-    "help-support-description" : "Pentru suport în utilizarea sau configurarea Dashy, consultați",
+    "help-support-description" : "Pentru suport în utilizarea sau configurarea LaoWang, consultați",
     "help-support-discussions": "Discuțiile",
-    "support-dashy": "Suport pentru Dashy",
-    "support-dashy-description": "Pentru moduri în care poți contribui, verificați",
-    "support-dashy-link": "Pagina de Contribuții",
+    "support-LaoWang": "Suport pentru LaoWang",
+    "support-LaoWang-description": "Pentru moduri în care poți contribui, verificați",
+    "support-LaoWang-link": "Pagina de Contribuții",
     "report-bug": "Raportează o Eroare",
     "report-bug-description": "Dacă crezi că ai găsit o eroare, atunci te rog",
     "report-bug-link": "deschide o Problemă",
@@ -61,7 +61,7 @@
     "source": "Sursă",
     "documentation": "Documentație",
     "privacy-and-security": "Confidențialitate & Securitate",
-    "privacy-and-security-l1": "Pentru o descompunere a modului în care datele tale sunt gestionate de Dashy, consultați",
+    "privacy-and-security-l1": "Pentru o descompunere a modului în care datele tale sunt gestionate de LaoWang, consultați",
     "privacy-and-security-privacy-policy": "Politica de Confidențialitate",
     "privacy-and-security-advice": "Pentru sfaturi în securizarea tabloului tău de bord, poți consulta",
     "privacy-and-security-advice-link": "Documentele de Management",
@@ -136,10 +136,10 @@
     "open": "Deschide"
   },
   "updates": {
-    "app-version-note": "Versiune Dashy",
+    "app-version-note": "Versiune LaoWang",
     "up-to-date": "Actualizat",
     "out-of-date": "Actualizare Disponibilă",
-    "unsupported-version-l1": "Utilizați o versiune nesuportată de Dashy",
+    "unsupported-version-l1": "Utilizați o versiune nesuportată de LaoWang",
     "unsupported-version-l2": "Pentru cea mai bună experiență și patch-uri de securitate recente, vă rugăm să actualizați la"
   },
   "language-switcher": {
@@ -196,7 +196,7 @@
   },
   "cloud-sync": {
     "title": "Backup și Restaurare în Cloud",
-    "intro-l1": "Backup-ul și restaurarea în cloud este o caracteristică opțională, care vă permite să încărcați configurația pe internet și apoi să o restaurați pe orice alt dispozitiv sau instanță de Dashy.",
+    "intro-l1": "Backup-ul și restaurarea în cloud este o caracteristică opțională, care vă permite să încărcați configurația pe internet și apoi să o restaurați pe orice alt dispozitiv sau instanță de LaoWang.",
     "intro-l2": "Toate datele sunt criptate end-to-end cu AES, folosind parola dumneavoastră ca cheie.",
     "intro-l3": "Pentru mai multe informații, vă rugăm să consultați",
     "intro-docs": "documentația",

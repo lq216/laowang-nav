@@ -14,7 +14,7 @@
     "loading": "Lädt"
   },
   "login": {
-    "title": "Dashy",
+    "title": "LaoWang",
     "guest-label": "Gastzugriff",
     "username-label": "Benutzername",
     "password-label": "Passwort",
@@ -49,11 +49,11 @@
     "error-log": "Fehlerprotokoll",
     "no-errors": "Keine kürzlichen Fehler erkannt",
     "help-support": "Hilfe & Support",
-    "help-support-description": "Um beim Betrieb oder der Konfiguration von Dashy Hilfe zu bekommen, siehe die",
+    "help-support-description": "Um beim Betrieb oder der Konfiguration von LaoWang Hilfe zu bekommen, siehe die",
     "help-support-discussions": "Diskussionen",
-    "support-dashy": "Dashy unterstützen",
-    "support-dashy-description": "Für Wege, sich zu beteiligen, besuchen Sie die",
-    "support-dashy-link": "Contributions Seite",
+    "support-LaoWang": "LaoWang unterstützen",
+    "support-LaoWang-description": "Für Wege, sich zu beteiligen, besuchen Sie die",
+    "support-LaoWang-link": "Contributions Seite",
     "report-bug": "Melde einen Fehler",
     "report-bug-description": "Wenn Sie glauben, einen Fehler gefunden zu haben, dann bitte",
     "report-bug-link": "öffne ein Issue",
@@ -61,7 +61,7 @@
     "source": "Quellcode",
     "documentation": "Dokumentation",
     "privacy-and-security": "Datenschutz & Sicherheit",
-    "privacy-and-security-l1": "Für eine Übersicht, wie Dashy mit Ihren Daten umgeht, siehe die",
+    "privacy-and-security-l1": "Für eine Übersicht, wie LaoWang mit Ihren Daten umgeht, siehe die",
     "privacy-and-security-privacy-policy": "Datenschutzerklärung",
     "privacy-and-security-advice": "Für Anleitung, um Ihr Dashboard zu sichern, konsultieren Sie die",
     "privacy-and-security-advice-link": "Management Dokumentation",
@@ -136,10 +136,10 @@
     "open": "Öffne"
   },
   "updates": {
-    "app-version-note": "Dashy Version",
+    "app-version-note": "LaoWang Version",
     "up-to-date": "Aktuell",
     "out-of-date": "Update verfügbar",
-    "unsupported-version-l1": "Sie verwenden eine nicht unterstützte Version von Dashy",
+    "unsupported-version-l1": "Sie verwenden eine nicht unterstützte Version von LaoWang",
     "unsupported-version-l2": "Für die beste Erfahrung und aktuelle Sicherheitspatches aktualisieren Sie bitte auf"
   },
   "language-switcher": {
@@ -196,7 +196,7 @@
   },
   "cloud-sync": {
     "title": "Cloud Backup & Wiederherstellung",
-    "intro-l1": "Cloud-Backup und Wiederherstellung ist eine optionale Funktion mit der Sie Ihre Konfiguration in das Internet hochladen und dann auf einem anderen Gerät oder einer anderen Dashy-Instanz wiederherstellen können.",
+    "intro-l1": "Cloud-Backup und Wiederherstellung ist eine optionale Funktion mit der Sie Ihre Konfiguration in das Internet hochladen und dann auf einem anderen Gerät oder einer anderen LaoWang-Instanz wiederherstellen können.",
     "intro-l2": "Alle Daten sind vollständig Ende-zu-Ende mit AES verschlüsselt. Ihr Passwort wird als Schlüssel verwendet.",
     "intro-l3": "Weitere Informationen finden Sie in der",
     "intro-docs": "Dokumentation",

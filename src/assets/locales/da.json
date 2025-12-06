@@ -11,7 +11,7 @@
     "enter-to-search-web": "Tryk på enter for at søge på nettet"
   },
   "login": {
-    "title": "Dashy",
+    "title": "LaoWang",
     "username-label": "Brugernavn",
     "password-label": "Adgangskode",
     "login-button": "Login",
@@ -86,10 +86,10 @@
     "sign-in-welcome": "Hej {username}!"
   },
   "updates": {
-    "app-version-note": "Dashy version",
+    "app-version-note": "LaoWang version",
     "up-to-date": "Opdatert",
     "out-of-date": "Opdatering tilgængelig",
-    "unsupported-version-l1": "Du bruger en ikke-understøttet version af Dashy",
+    "unsupported-version-l1": "Du bruger en ikke-understøttet version af LaoWang",
     "unsupported-version-l2": "For den bedste oplevelse og de seneste sikkerhedsrettelser skal du opdatere til"
   },
   "language-switcher": {
@@ -146,7 +146,7 @@
   },
   "cloud-sync": {
     "title": "Cloud sikkerhedskopiering og gendannelse",
-    "intro-l1": "Cloud sikkerhedskopiering og gendannelse er en valgfri funktion, der gør det muligt for dig at uploade din konfiguration til internettet og derefter gendanne den på en hvilken som helst anden enhed eller forekomst af Dashy.",
+    "intro-l1": "Cloud sikkerhedskopiering og gendannelse er en valgfri funktion, der gør det muligt for dig at uploade din konfiguration til internettet og derefter gendanne den på en hvilken som helst anden enhed eller forekomst af LaoWang.",
     "intro-l2": "Alle data er fuldstændigt end-to-end krypteret med AES, ved at bruge din adgangskode som nøglen.",
     "intro-l3": "For mere information, se venligst",
     "backup-title-setup": "Lav en sikkerhedskopi",

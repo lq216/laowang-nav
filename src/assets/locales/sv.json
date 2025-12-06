@@ -14,7 +14,7 @@
     "loading": "Laddar"
   },
   "login":{
-    "title":"Dashy",
+    "title":"LaoWang",
     "username-label":"Användarnamn",
     "password-label":"Lösenord",
     "login-button":"Logga in",
@@ -91,10 +91,10 @@
     "open": "Öppna"
   },
   "updates":{
-    "app-version-note":"Dashy-version",
+    "app-version-note":"LaoWang-version",
     "up-to-date":"Uppdaterat",
     "out-of-date":"Uppdatering finns",
-    "unsupported-version-l1":"Du använder en icke-stödd version av Dashy",
+    "unsupported-version-l1":"Du använder en icke-stödd version av LaoWang",
     "unsupported-version-l2":"För den bästa upplevelsen och de senaste säkerhetskorrigeringarna, uppdatera till"
   },
   "language-switcher":{
@@ -151,7 +151,7 @@
   },
   "cloud-sync":{
     "title":"Molnsäkerhetskopiering och återställning",
-    "intro-l1":"Molnsäkerhetskopiering och återställning är en valfri funktion som gör att du kan ladda upp din konfiguration till internet och sedan återställa den på någon annan enhet eller instans av Dashy.",
+    "intro-l1":"Molnsäkerhetskopiering och återställning är en valfri funktion som gör att du kan ladda upp din konfiguration till internet och sedan återställa den på någon annan enhet eller instans av LaoWang.",
     "intro-l2":"All data är fullständigt end-to-end krypterad med AES, med ditt lösenord som nyckel.",
     "intro-l3":"För mer information, vänligen se",
     "backup-title-setup":"Gör en säkerhetskopia",

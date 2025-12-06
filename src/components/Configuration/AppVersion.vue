@@ -62,9 +62,9 @@ export default {
     }
   },
   methods: {
-    /* Gets the apps latest version from Dashy's git repo */
+    /* Gets the apps latest version from LaoWang's git repo */
     checkVersion() {
-      const packageUrl = 'https://raw.githubusercontent.com/Lissy93/dashy/master/package.json';
+      const packageUrl = 'https://raw.githubusercontent.com/tony-wang1990/laowang-nav/master/package.json';
       this.progress.start();
       axios.get(packageUrl).then((response) => {
         if (response && response.data && response.data.version) {

@@ -11,7 +11,7 @@
     "enter-to-search-web": "Stlačením klávesu Enter spustíte vyhľadávanie na webe"
   },
   "login": {
-    "title": "Dashy",
+    "title": "LaoWang",
     "username-label": "Používateľské meno",
     "password-label": "Heslo",
     "login-button": "Prihlásiť sa",
@@ -86,10 +86,10 @@
     "sign-in-welcome": "Dobrý deň, {username}!"
   },
   "updates": {
-    "app-version-note": "Dashy verzia",
+    "app-version-note": "LaoWang verzia",
     "up-to-date": "Aktuálne",
     "out-of-date": "Aktualizácia k dispozícii",
-    "unsupported-version-l1": "Používate nepodporovanú verziu Dashy",
+    "unsupported-version-l1": "Používate nepodporovanú verziu LaoWang",
     "unsupported-version-l2": "Ak chcete získať najlepší zážitok a najnovšie opravy zabezpečenia, aktualizujte na"
   },
   "language-switcher": {
@@ -146,7 +146,7 @@
   },
   "cloud-sync": {
     "title": "Cloud záloha & obnova",
-    "intro-l1": "Cloudové zálohovanie a obnovenie je voliteľná funkcia, ktorá vám umožňuje nahrať vašu konfiguráciu na internet a potom ju obnoviť na akomkoľvek inom zariadení alebo inštancii Dashy.",
+    "intro-l1": "Cloudové zálohovanie a obnovenie je voliteľná funkcia, ktorá vám umožňuje nahrať vašu konfiguráciu na internet a potom ju obnoviť na akomkoľvek inom zariadení alebo inštancii LaoWang.",
     "intro-l2": "Všetky údaje sú úplne end-to-end šifrované pomocou AES, pričom ako kľúč sa používa vaše heslo.",
     "intro-l3": "Viac informácií nájdete na",
     "backup-title-setup": "Vytvoriť zálohu",

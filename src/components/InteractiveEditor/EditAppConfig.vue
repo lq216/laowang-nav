@@ -16,7 +16,7 @@
     </p>
     {{ $t('interactive-editor.edit-app-config.warning-msg-l1') }}
     {{ $t('interactive-editor.edit-app-config.warning-msg-l2') }}
-    <a href="https://dashy.to/docs/configuring#appconfig-optional">
+    <a href="https://github.com/tony-wang1990/laowang-nav#readme">
       {{ $t('interactive-editor.edit-app-config.warning-msg-docs') }}
     </a>
     {{ $t('interactive-editor.edit-app-config.warning-msg-l3') }}

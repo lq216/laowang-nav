@@ -2,7 +2,7 @@ const axios = require('axios').default;
 
 const currentVersion = require('../package.json').version;
 
-const packageUrl = 'https://raw.githubusercontent.com/Lissy93/dashy/master/package.json';
+const packageUrl = 'https://raw.githubusercontent.com/tony-wang1990/laowang-nav/master/package.json';
 
 const logToConsole = (msg) => {
   console.log(msg); // eslint-disable-line no-console

@@ -11,7 +11,7 @@
     "enter-to-search-web": "Premi invio per cercare nel web"
   },
   "login": {
-    "title": "Dashy",
+    "title": "LaoWang",
     "username-label": "Nome utente",
     "password-label": "Password",
     "login-button": "Login",
@@ -86,10 +86,10 @@
     "sign-in-welcome": "Ciao {username}!"
   },
   "updates": {
-    "app-version-note": "Versione Dashy",
+    "app-version-note": "Versione LaoWang",
     "up-to-date": "Aggiornata",
     "out-of-date": "Aggiornamento disponibile",
-    "unsupported-version-l1": "Stai utilizzando una versione non supportata di Dashy",
+    "unsupported-version-l1": "Stai utilizzando una versione non supportata di LaoWang",
     "unsupported-version-l2": "Per un miglior utilizzo e una maggior sicurezza, si consiglia l'aggiornamento alla versione"
   },
   "language-switcher": {
@@ -146,7 +146,7 @@
   },
   "cloud-sync": {
     "title": "Backup e Restore su Cloud",
-    "intro-l1": "Il backup e il restore su cloud consentono di salvare la tua configurazione su un server internet e quindi ripristinarla su qualsiasi altro dispositivo o istanza Dashy.",
+    "intro-l1": "Il backup e il restore su cloud consentono di salvare la tua configurazione su un server internet e quindi ripristinarla su qualsiasi altro dispositivo o istanza LaoWang.",
     "intro-l2": "Tutti i dati sono completamente crittografati end-to-end con AES, utilizzando la tua password come chiave.",
     "intro-l3": "Per maggiori informazioni, vedere il",
     "backup-title-setup": "Fai un backup",

@@ -14,7 +14,7 @@
     "loading": "Carregando"
   },
   "login": {
-    "title": "Dashy",
+    "title": "LaoWang",
     "guest-label": "Entrar como convidado",
     "username-label": "Nome do usuário",
     "password-label": "Senha",
@@ -102,10 +102,10 @@
     "sign-in-welcome": "Olá {username}!"
   },
   "updates": {
-    "app-version-note": "Versão do Dashy",
+    "app-version-note": "Versão do LaoWang",
     "up-to-date": "Atualizado",
     "out-of-date": "Atualização disponível",
-    "unsupported-version-l1": "Você está usando uma versão não suportada do Dashy",
+    "unsupported-version-l1": "Você está usando uma versão não suportada do LaoWang",
     "unsupported-version-l2": "Para uma melhor experiência e patches de segurança, atualize para"
   },
   "language-switcher": {
@@ -162,7 +162,7 @@
   },
   "cloud-sync": {
     "title": "Backup e restauração em nuvem",
-    "intro-l1": "O backup e restauração em nuvem é um recurso opcional que permite fazer upload de sua configuração para a Internet e, em seguida, restaurá-la em qualquer outro dispositivo ou instância do Dashy.",
+    "intro-l1": "O backup e restauração em nuvem é um recurso opcional que permite fazer upload de sua configuração para a Internet e, em seguida, restaurá-la em qualquer outro dispositivo ou instância do LaoWang.",
     "intro-l2": "Todos os dados são totalmente criptografados de ponta a ponta com AES, usando sua senha como chave.",
     "intro-l3": "Para obter mais informações, consulte o",
     "backup-title-setup": "Faça um backup",

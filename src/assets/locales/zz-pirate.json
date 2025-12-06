@@ -38,10 +38,10 @@
     "sign-in-welcome": "Ahoy {username}!"
   },
   "updates": {
-    "app-version-note": "Dashy version",
+    "app-version-note": "LaoWang version",
     "up-to-date": "Up-to-Date",
     "out-of-date": "Update Available",
-    "unsupported-version-l1": "You are using a ye' old version of Dashy",
+    "unsupported-version-l1": "You are using a ye' old version of LaoWang",
     "unsupported-version-l2": "For th' best experience, and recent security patches, please update to"
   },
   "language-switcher": {
@@ -82,7 +82,7 @@
     "reload-button": "Reload Ye Page"
   },
   "cloud-sync": {
-    "intro-l1": "Cloud backup and restore be an optional feature, that enables ye t' upload yer config t' th' internet, and then restore it on any other device or instance o' Dashy.",
+    "intro-l1": "Cloud backup and restore be an optional feature, that enables ye t' upload yer config t' th' internet, and then restore it on any other device or instance o' LaoWang.",
     "intro-l2": "All data be fully end-t'-end encrypted with AES, usin' yer password as th' key.",
     "intro-l3": "For more info, please see th'",
     "backup-title-setup": "Make ye Backup",

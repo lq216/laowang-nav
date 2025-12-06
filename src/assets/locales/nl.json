@@ -9,7 +9,7 @@
     "clear-search-tooltip": "Wis Zoekopdracht"
   },
   "login": {
-    "title": "Dashy",
+    "title": "LaoWang",
     "username-label": "Gebruikersnaam",
     "password-label": "Wachtwoord",
     "login-button": "Aanmelden",
@@ -62,10 +62,10 @@
     "config-launcher-label": "Config"
   },
   "updates": {
-    "app-version-note": "Dashy versie",
+    "app-version-note": "LaoWang versie",
     "up-to-date": "Bijgewerkt",
     "out-of-date": "Update Beschikbaar",
-    "unsupported-version-l1": "Je gebruikt een niet-ondersteunde versie van Dashy",
+    "unsupported-version-l1": "Je gebruikt een niet-ondersteunde versie van LaoWang",
     "unsupported-version-l2": "Voor de beste ervaring en betere beveiliging, update naar"
   },
   "language-switcher": {
@@ -119,7 +119,7 @@
   },
   "cloud-sync": {
     "title": "Cloud Backup & Herstel",
-    "intro-l1": "Cloud Backup & Herstel is een optionele functie, die het mogelijk maakt om het config bestand naar het internet te uploaden en het te herstellen op een ander apparaat of instantie van Dashy.",
+    "intro-l1": "Cloud Backup & Herstel is een optionele functie, die het mogelijk maakt om het config bestand naar het internet te uploaden en het te herstellen op een ander apparaat of instantie van LaoWang.",
     "intro-l2": "Alle data is volledig end-to-end versleuteld met AES, met je wachtwoord als de sleutel.",
     "intro-l3": "Voor meer informatie, zie",
     "backup-title-setup": "Maak een Backup",

@@ -14,7 +14,7 @@
       "loading": "Cargando"
    },
    "login": {
-      "title": "Dashy",
+      "title": "LaoWang",
       "guest-label": "Acceso de convidado",
       "username-label": "Nome de usuario",
       "password-label": "Contrasinal",
@@ -49,11 +49,11 @@
       "error-log": "Rexistro de erros",
       "no-errors": "Non se detectaron erros recentes",
       "help-support": "Axuda e soporte",
-      "help-support-description": "Para obter axuda sobre a execución ou configuración de Dashy, consulta as",
+      "help-support-description": "Para obter axuda sobre a execución ou configuración de LaoWang, consulta as",
       "help-support-discussions": "Discusións",
-      "support-dashy": "Apoia Dashy",
-      "support-dashy-description": "Para saber como participar, consulta a páxina de",
-      "support-dashy-link": "Contribucións",
+      "support-LaoWang": "Apoia LaoWang",
+      "support-LaoWang-description": "Para saber como participar, consulta a páxina de",
+      "support-LaoWang-link": "Contribucións",
       "report-bug": "Informar dun erro",
       "report-bug-description": "Se atopaches un erro, por favor",
       "report-bug-link": "abre unha incidencia",
@@ -61,7 +61,7 @@
       "source": "Código fonte",
       "documentation": "Documentación",
       "privacy-and-security": "Privacidade e seguridade",
-      "privacy-and-security-l1": "Para obter detalles sobre como os teus datos son xestionados por Dashy, consulta a",
+      "privacy-and-security-l1": "Para obter detalles sobre como os teus datos son xestionados por LaoWang, consulta a",
       "privacy-and-security-privacy-policy": "Política de privacidade",
       "privacy-and-security-advice": "Para consellos sobre como asegurar o teu panel de control, consulta os",
       "privacy-and-security-advice-link": "Documentos de xestión",
@@ -136,10 +136,10 @@
       "open": "Abrir"
    },
    "updates": {
-      "app-version-note": "Versión de Dashy",
+      "app-version-note": "Versión de LaoWang",
       "up-to-date": "Actualizado",
       "out-of-date": "Actualización dispoñible",
-      "unsupported-version-l1": "Estás a usar unha versión non soportada de Dashy",
+      "unsupported-version-l1": "Estás a usar unha versión non soportada de LaoWang",
       "unsupported-version-l2": "Para a mellor experiencia e actualizacións de seguridade recentes, por favor, actualiza a"
    },
    "language-switcher": {
@@ -196,7 +196,7 @@
    },
    "cloud-sync": {
       "title": "Copia de seguridade e restauración en nube",
-      "intro-l1": "A copia de seguridade e restauración en nube é unha característica opcional que che permite cargar a túa configuración á internet e restaurala en calquera outro dispositivo ou instancia de Dashy.",
+      "intro-l1": "A copia de seguridade e restauración en nube é unha característica opcional que che permite cargar a túa configuración á internet e restaurala en calquera outro dispositivo ou instancia de LaoWang.",
       "intro-l2": "Todos os datos están totalmente cifrados de extremo a extremo con AES, usando o teu contrasinal como clave.",
       "intro-l3": "Para obter máis información, consulta a",
       "intro-docs": "documentación",

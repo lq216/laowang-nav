@@ -10,7 +10,7 @@
     "enter-to-search-web": "Naciśnij ENTER aby przeszukać internet"
   },
   "login": {
-    "title": "Dashy",
+    "title": "LaoWang",
     "username-label": "Użytkownik",
     "password-label": "Hasło",
     "login-button": "Zaloguj",
@@ -84,10 +84,10 @@
     "sign-in-welcome": "Cześć {username}!"
   },
   "updates": {
-    "app-version-note": "wersja Dashy",
+    "app-version-note": "wersja LaoWang",
     "up-to-date": "Aktualna",
     "out-of-date": "Dostępna aktualizacja",
-    "unsupported-version-l1": "Używasz niewspieranej wersji Dashy",
+    "unsupported-version-l1": "Używasz niewspieranej wersji LaoWang",
     "unsupported-version-l2": "Zaleca się zaktualizowanie do"
   },
   "language-switcher": {
@@ -142,7 +142,7 @@
   },
   "cloud-sync": {
     "title": "Kopia zapasowa w chmurze",
-    "intro-l1": "Tworzenie i przywracanie z chmury to opcjonalna funkcja, która umożliwia zapisanie konfiguracji w sieci, by później wgrać je na innym urządzeniu z Dashy.",
+    "intro-l1": "Tworzenie i przywracanie z chmury to opcjonalna funkcja, która umożliwia zapisanie konfiguracji w sieci, by później wgrać je na innym urządzeniu z LaoWang.",
     "intro-l2": "Wszystkie dane są w pełni zaszyfrowane z wykorzystaniem AES, kluczem będzie podane hasło.",
     "intro-l3": "Aby uzyskać więcej informacji przejdź do",
     "backup-title-setup": "Tworzenie",

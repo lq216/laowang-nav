@@ -14,7 +14,7 @@
     "loading": "Betöltés"
   },
   "login": {
-    "title": "Dashy",
+    "title": "LaoWang",
     "guest-label": "Vendég hozzáférés",
     "username-label": "Felhasználónév",
     "password-label": "Jelszó",
@@ -49,11 +49,11 @@
     "error-log": "Hibanapló",
     "no-errors": "Nem található friss hiba",
     "help-support": "Súgó és támogatás",
-    "help-support-description" : "Ha segítségre van szükséged a Dashy futtatásához vagy beállításához, nézd meg a",
+    "help-support-description" : "Ha segítségre van szükséged a LaoWang futtatásához vagy beállításához, nézd meg a",
     "help-support-discussions": "fórumot",
-    "support-dashy": "Dashy támogatása",
-    "support-dashy-description": "Ha szeretnél részt venni a projektben, nézd meg a",
-    "support-dashy-link": "közreműködők oldalát",
+    "support-LaoWang": "LaoWang támogatása",
+    "support-LaoWang-description": "Ha szeretnél részt venni a projektben, nézd meg a",
+    "support-LaoWang-link": "közreműködők oldalát",
     "report-bug": "Hiba bejelentése",
     "report-bug-description": "Ha úgy gondolod, hogy hibát találtál, kérlek",
     "report-bug-link": "jelentsd be itt",
@@ -61,7 +61,7 @@
     "source": "Forráskód",
     "documentation": "Dokumentáció",
     "privacy-and-security": "Adatvédelem és biztonság",
-    "privacy-and-security-l1": "Ha szeretnéd megtudni, hogyan kezeli a Dashy az adataidat, nézd meg az",
+    "privacy-and-security-l1": "Ha szeretnéd megtudni, hogyan kezeli a LaoWang az adataidat, nézd meg az",
     "privacy-and-security-privacy-policy": "adatvédelmi irányelveinket",
     "privacy-and-security-advice": "Ha tanácsot keresel az irányítópultod biztonságossá tételéhez, olvasd el a",
     "privacy-and-security-advice-link": "kezelési útmutatót",
@@ -136,10 +136,10 @@
     "open": "Megnyitás"
   },
   "updates": {
-    "app-version-note": "Dashy verzió",
+    "app-version-note": "LaoWang verzió",
     "up-to-date": "Naprakész",
     "out-of-date": "Frissítés elérhető",
-    "unsupported-version-l1": "A Dashy nem támogatott verzióját használod",
+    "unsupported-version-l1": "A LaoWang nem támogatott verzióját használod",
     "unsupported-version-l2": "A legjobb élmény és a biztonsági javítások érdekében frissíts a következő verzióra"
   },
   "language-switcher": {
@@ -196,7 +196,7 @@
   },
   "cloud-sync": {
     "title": "Mentés felhőbe, visszaállítás",
-    "intro-l1": "A mentés felhőbe, visszaállítás egy választható funkció, amellyel feltöltheted a beállításaidat az internetre, majd bármely másik Dashy példányban visszaállíthatod azokat.",
+    "intro-l1": "A mentés felhőbe, visszaállítás egy választható funkció, amellyel feltöltheted a beállításaidat az internetre, majd bármely másik LaoWang példányban visszaállíthatod azokat.",
     "intro-l2": "Minden adat teljes körűen AES titkosítással védett, ahol a jelszavad szolgál kulcsként.",
     "intro-l3": "További információért lásd a",
     "intro-docs": "dokumentációt",
@@ -314,7 +314,7 @@
   },
   "critical-error": {
     "title": "Konfigurációs betöltési hiba",
-    "subtitle": "A Dashy nem tudott megfelelően betöltődni a konfigurációs hiba miatt.",
+    "subtitle": "A LaoWang nem tudott megfelelően betöltődni a konfigurációs hiba miatt.",
     "sub-ensure-that": "Győződj meg róla, hogy",
     "sub-error-details": "Hiba részletei",
     "sub-next-steps": "Következő lépések",

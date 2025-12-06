@@ -14,7 +14,7 @@
     "loading": "Φόρτωση"
   },
   "login": {
-    "title": "Dashy",
+    "title": "LaoWang",
     "guest-label": "Πρόσβαση Επισκέπτη",
     "username-label": "Όνομα χρήστη",
     "password-label": "Κωδικός πρόσβασης",
@@ -49,11 +49,11 @@
     "error-log": "Αρχείο Καταγραφής Σφαλμάτων",
     "no-errors": "Δεν εντοπίστηκαν πρόσφατα σφάλματα",
     "help-support": "Βοήθεια & Υποστήριξη",
-    "help-support-description" : "Για να λάβετε υποστήριξη σχετικά με την εκτέλεση ή με τη διαμόρφωση του Dashy, ανατρέξτε στις",
+    "help-support-description" : "Για να λάβετε υποστήριξη σχετικά με την εκτέλεση ή με τη διαμόρφωση του LaoWang, ανατρέξτε στις",
     "help-support-discussions": "Συζητήσεις",
-    "support-dashy": "Υποστήριξη του Dashy",
-    "support-dashy-description": "Για τρόπους με τους οποίους μπορείτε να συνεισφέρετε, ανατρέξτε στη",
-    "support-dashy-link": "Σελίδα συνεισφορών",
+    "support-LaoWang": "Υποστήριξη του LaoWang",
+    "support-LaoWang-description": "Για τρόπους με τους οποίους μπορείτε να συνεισφέρετε, ανατρέξτε στη",
+    "support-LaoWang-link": "Σελίδα συνεισφορών",
     "report-bug": "Αναφέρετε Πρόβλημα",
     "report-bug-description": "Αν πιστεύετε ότι έχετε βρει κάποιο σφάλμα, τότε παρακαλείστε να",
     "report-bug-link": "υποβάλετε μια Αναφορά",
@@ -61,7 +61,7 @@
     "source": "Κώδικας",
     "documentation": "Τεκμηρίωση",
     "privacy-and-security": "Απόρρητο & Ασφάλεια",
-    "privacy-and-security-l1": "Για μια ανάλυση του τρόπου διαχείρισης των δεδομένων σας από τον Dashy, ανατρέξτε στην",
+    "privacy-and-security-l1": "Για μια ανάλυση του τρόπου διαχείρισης των δεδομένων σας από τον LaoWang, ανατρέξτε στην",
     "privacy-and-security-privacy-policy": "Πολιτική Απορρήτου",
     "app-info.privacy-and-security-advice": "Για συμβουλές σχετικά με την ασφάλεια του dashboard σας, μπορείτε να ανατρέξετε στα",
     "app-info.privacy-and-security-advice-link": "Εγγραφα Διαχείρισης",
@@ -136,10 +136,10 @@
     "open": "Ανοιγμα"
   },
   "updates": {
-    "app-version-note": "Dashy έκδοση",
+    "app-version-note": "LaoWang έκδοση",
     "up-to-date": "Ενημερωμένη",
     "out-of-date": "Διαθέσιμη Ενημέρωση",
-    "unsupported-version-l1": "Χρησιμοποιείτε μια μη υποστηριζόμενη έκδοση του Dashy",
+    "unsupported-version-l1": "Χρησιμοποιείτε μια μη υποστηριζόμενη έκδοση του LaoWang",
     "unsupported-version-l2": "Για την καλύτερη εμπειρία χρήσης και για να διασφαλίσετε ότι έχετε τις πιο πρόσφατες ενημερώσεις ασφαλείας, αναβαθμίστε σε"
   },
   "language-switcher": {

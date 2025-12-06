@@ -10,7 +10,7 @@
     "enter-to-search-web": "Za iskanje po spletu pritisnite enter"
   },
   "login": {
-    "title": "Dashy",
+    "title": "LaoWang",
     "username-label": "Uporabniško ime",
     "password-label": "Geslo",
     "login-button": "Prijava",
@@ -84,10 +84,10 @@
     "sign-in-welcome": "Pozdravljen {username}!"
   },
   "updates": {
-    "app-version-note": "Dashy verzija",
+    "app-version-note": "LaoWang verzija",
     "up-to-date": "Posodobljeno",
     "out-of-date": "Navoljo posodobitev",
-    "unsupported-version-l1": "Uporabljate nepodprto različico programa Dashy",
+    "unsupported-version-l1": "Uporabljate nepodprto različico programa LaoWang",
     "unsupported-version-l2": "Za najboljšo izkušnjo in najnovejše varnostne popravke posodobite na"
   },
   "language-switcher": {
@@ -144,7 +144,7 @@
   },
   "cloud-sync": {
     "title": "Varnostno Kopiranje & Obnovitev v Oblaku",
-    "intro-l1": "Varnostno kopiranje in obnovitev v oblaku je izbirna  funkcija, ki vam omogoča, da svojo konfiguracijo shranite v oblak in jo nato obnovite v kateri koli drugi napravi ali primerku Dashyja.",
+    "intro-l1": "Varnostno kopiranje in obnovitev v oblaku je izbirna  funkcija, ki vam omogoča, da svojo konfiguracijo shranite v oblak in jo nato obnovite v kateri koli drugi napravi ali primerku LaoWangja.",
     "intro-l2": "Vsi podatki so v celoti šifrirani z AES, pri čemer je vaše geslo ključ.",
     "intro-l3": "Za več informacij si oglejte",
     "backup-title-setup": "Ustvari Varnostno Kopijo",

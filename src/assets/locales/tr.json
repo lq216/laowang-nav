@@ -11,7 +11,7 @@
     "enter-to-search-web": "Web'de aramak için enter'a bas"
   },
   "login": {
-    "title": "Dashy",
+    "title": "LaoWang",
     "guest-label": "Misafir Erisimi",
     "username-label": "Kullanıcı Adı",
     "password-label": "Parola",
@@ -94,10 +94,10 @@
     "sign-in-welcome": "Merhaba {username}!"
   },
   "updates": {
-    "app-version-note": "Dashy versiyon",
+    "app-version-note": "LaoWang versiyon",
     "up-to-date": "Güncel",
     "out-of-date": "Güncelleştirme mevcut",
-    "unsupported-version-l1": "Dashy'nin desteklenmeyen bir sürümünü kullanıyorsunuz",
+    "unsupported-version-l1": "LaoWang'nin desteklenmeyen bir sürümünü kullanıyorsunuz",
     "unsupported-version-l2": "En iyi deneyim ve en son güvenlik yamaları için lütfen güncelleyin"
   },
   "language-switcher": {
@@ -154,7 +154,7 @@
   },
   "cloud-sync": {
     "title": "Bulut Yedekleme ve Geri Yükleme",
-    "intro-l1": "Bulut yedekleme ve geri yükleme, yapılandırmanızı internete yüklemenizi ve ardından herhangi bir başka cihaza veya Dashy örneğine geri yüklemenizi sağlayan isteğe bağlı bir özelliktir.",
+    "intro-l1": "Bulut yedekleme ve geri yükleme, yapılandırmanızı internete yüklemenizi ve ardından herhangi bir başka cihaza veya LaoWang örneğine geri yüklemenizi sağlayan isteğe bağlı bir özelliktir.",
     "intro-l2": "Tüm veriler, anahtar olarak parolanız kullanılarak AES ile tamamen uçtan uca şifrelenir.",
     "intro-l3": "Daha fazla bilgi için lütfen şuraya bakın:",
     "backup-title-setup": "Yedekleme Yap",
