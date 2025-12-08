@@ -984,6 +984,22 @@ sections:
         description: 实惠的域名
         icon: https://www.namesilo.com/favicon.ico
         url: https://www.namesilo.com
+      - title: DNSHE
+        description: 永久免费免费域名
+        icon: https://my.dnshe.com/clientarea.php/favicon.ico
+        url: https://my.dnshe.com/clientarea.php
+      - title: netlib.re
+        description: 永久免费二级域名
+        icon: https://www.netlib.re/favicon.ico
+        url: https://www.netlib.re
+      - title: Namecheap
+        description: 头部域名服务商
+        icon: https://www.namecheap.com/favicon.ico
+        url: https://www.namecheap.com
+      - title: gv.uy
+        description: 永久免费二级域名
+        icon: https://nic.gv.uy/favicon.ico
+        url: https://nic.gv.uy
   - name: Dev
     items:
       - title: igoutu

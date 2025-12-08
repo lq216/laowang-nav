@@ -10,7 +10,6 @@
         <span>Description</span>
         <input v-model="formElements.description" />
       </div>
-      </div>
     </div>
 
     <button class="save-button" @click="save()">
@@ -23,7 +22,6 @@
 <script>
 
 import { localStorageKeys } from '@/utils/defaults';
-import AddNewIcon from '@/assets/interface-icons/add-new.svg';
 import SaveConfigIcon from '@/assets/interface-icons/save-config.svg';
 
 export default {
@@ -32,7 +30,6 @@ export default {
     config: Object,
   },
   components: {
-    AddNewIcon,
     SaveConfigIcon,
   },
   methods: {

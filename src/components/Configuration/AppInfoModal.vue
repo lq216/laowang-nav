@@ -23,7 +23,8 @@
       <i>本项目基于 <a href="https://github.com/Lissy93/dashy">LaoWang</a> 开发，仅供学习交流。</i>
       <!-- Privacy & Security -->
       <h3>{{ $t('app-info.privacy-and-security') }}</h3>
-      {{ $t('app-info.privacy-and-security-l1') }} <a href="#">{{ $t('app-info.privacy-and-security-privacy-policy') }}</a>.<br>
+      {{ $t('app-info.privacy-and-security-l1') }}
+      <a href="#">{{ $t('app-info.privacy-and-security-privacy-policy') }}</a>.<br>
       <!-- License -->
       <h3>{{ $t('app-info.license') }}</h3>
       {{ $t('app-info.license-under') }} <a href="https://github.com/tony-wang1990/laowang-nav/blob/master/LICENSE">MIT</a>.
