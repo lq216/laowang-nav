@@ -1,9 +1,15 @@
 const https = require('https');
 const fs = require('fs');
+const path = require('path');
 const yaml = require('js-yaml');
 
 const MENUS_URL = 'https://nav.eooce.com/api/menus';
 const CARDS_API_BASE = 'https://nav.eooce.com/api/cards';
+
+// Get project root directory (works whether run from root or scripts/sync/)
+const PROJECT_ROOT = process.cwd();
+const DATA_DIR = path.join(PROJECT_ROOT, 'data');
+const CONF_PATH = path.join(PROJECT_ROOT, 'user-data', 'conf.yml');
 
 // Helper function to fetch data from a URL
 function fetchData(url) {
@@ -70,7 +76,11 @@ async function sync() {
     // 1. Fetch Menus from remote
     console.log(`\n📡 获取远程菜单: ${MENUS_URL}`);
     const menus = await fetchData(MENUS_URL);
-    fs.writeFileSync('../../data/menus.json', JSON.stringify(menus, null, 2));
+    // Ensure data directory exists
+    if (!fs.existsSync(DATA_DIR)) {
+      fs.mkdirSync(DATA_DIR, { recursive: true });
+    }
+    fs.writeFileSync(path.join(DATA_DIR, 'menus.json'), JSON.stringify(menus, null, 2));
 
     // 2. Fetch all remote sections
     const remoteSections = [];
@@ -112,7 +122,7 @@ async function sync() {
     console.log(`\n📦 远程共有 ${remoteSections.length} 个分类`);
 
     // 3. Load existing conf.yml
-    const confPath = 'user-data/conf.yml';
+    const confPath = CONF_PATH;
     let conf = {
       appConfig: { theme: 'colorful', faviconApi: 'google' },
       pageInfo: { title: 'LaoWang Nav', description: '您的个人导航站' },
