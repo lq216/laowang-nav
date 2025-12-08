@@ -143,7 +143,7 @@ export default {
     /* Make formatted data structure to be rendered as form elements */
     makeInitialFormData() {
       const formData = [];
-      const requiredFields = ['title', 'description', 'url', 'icon', 'target'];
+      const requiredFields = ['title', 'description', 'url', 'target'];
       const unneededFields = ['id'];
       const isPrimaryField = (property) => (
         this.item[property] || requiredFields.includes(property)
